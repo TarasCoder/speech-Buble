@@ -24,7 +24,7 @@
   bottom: -19px;
 }
 .sb2:before {
-content: "";
+  content: "";
   width: 0px;
   height: 0px;
   position: absolute;
